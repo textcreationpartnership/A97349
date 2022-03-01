@@ -1,0 +1,1162 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Strange and wonderful history of Mother Shipton plainly setting forth her prodigious birth, life, death, and burial, with an exact collection of all her famous prophecys, more compleat than ever yet before published, and large explanations, shewing how they have all along been fulfilled to this very year.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1686</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 29 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A97349</idno>
+            <idno type="STC">Wing S5848</idno>
+            <idno type="STC">ESTC R217360</idno>
+            <idno type="EEBO-CITATION">28004323</idno>
+            <idno type="OCLC">ocm 28004323</idno>
+            <idno type="VID">39773</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A97349)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 39773)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1733:4 or 1986:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Strange and wonderful history of Mother Shipton plainly setting forth her prodigious birth, life, death, and burial, with an exact collection of all her famous prophecys, more compleat than ever yet before published, and large explanations, shewing how they have all along been fulfilled to this very year.</title>
+               </titleStmt>
+               <extent>[2], 21 p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for W.H. and sold by J. Conyers,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1686]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint information supplied by Wing.</note>
+                  <note>Title page illustrated with woodcut.</note>
+                  <note>Imperfect: cropped, stained and tightly bound, with loss of text.</note>
+                  <note>Item at reel 1986:6 incorrectly identified as Wing (2nd ed.) E3627B.</note>
+                  <note>Reproduction of original in Magdalene College (University of Cambridge) Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Shipton, --  Mother --  (Ursula)</term>
+               <term>Prophecies (Occultism)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:39773:1" rendition="simple:additions"/>
+            <p>The Strange and Wonderful HISTORY OF <hi>Mother Shipton Plainly ſetting forth</hi> Her prodigious Birth, Life, Death, and Burial.</p>
+            <p>With an exact Collection of all her famous PROPHECYS More compleat than ever yet before pub<g ref="char:EOLhyphen"/>liſhed. And large Explanations, ſhewing how they have all along been fulfilled to this very YEAR.</p>
+            <p>
+               <hi>Licenſed according to Order.</hi>
+            </p>
+            <figure/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:39773:2" rendition="simple:additions"/>
+            <head>The Hiſtory of Mother <hi>Shipton</hi>
+            </head>
+            <div n="1" type="chapter">
+               <head>CHAP. I.</head>
+               <argument>
+                  <p>Of Mother <hi>Shiptons</hi> ſtrange Parentage, and t<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> place of her Birth.</p>
+               </argument>
+               <p>MOTHER SHIPTON (as all <hi>Hiſtori<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi> agee) was a <hi>Yorkſhire</hi> woman; b<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> the particular place is <hi>very</hi> mu<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> diſputed, becauſe ſeveral Towns have <hi>prete<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>ded</hi> to the honour of <hi>her Birth;</hi> But the m<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> 
+                  <hi>credible</hi> and <hi>received</hi> opinion aſcribes it <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>Naſcborough,</hi> near the <hi>dropping Well,</hi> in the <hi>Cou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>ty</hi> aforeſaid: concerning her <hi>Pedigree</hi> or <hi>Pare<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>tage</hi> there is likewiſe very <hi>various Report<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi> Some ſay, that her <hi>Father</hi> was a <hi>Necromanc<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi> and that skill in the Black Art <hi>thereby</hi> becam<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> intail'd upon her by <hi>inheritance;</hi> but the co<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>mon
+<pb n="2" facs="tcp:39773:3" rendition="simple:additions"/>Story (which <hi>therefore</hi> I ſhall follow, yet <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ithout forcing the <hi>Reader</hi> to believe it whe<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>er he will or no) is, That ſhe never had any <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>ther</hi> of humane Race, or <hi>mortal wight,</hi> but <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> as begot (as the <hi>great Welſh</hi> Prophet <hi>Merlin</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> as of old) by the Phantaſm of <hi>Apollo,</hi> or ſome <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>anton Airial <hi>Doemon,</hi> in manner following.</p>
+               <p>Her <hi>Mother</hi> (whom ſome Records call <hi>A<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>atha,</hi> and others <hi>Emmatha</hi>) being left an <hi>Or<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>an</hi> about the Age of ſixteen, very <hi>poor,</hi> and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uch <hi>troubled</hi> with that <hi>grievous,</hi> but com<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on diſeaſe, called by ſome <hi>Idleneſs,</hi> and by <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>thers <hi>Sloth;</hi> as ſhe was once upon a time ſit<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ng, bemoning <hi>her</hi> ſelf on a <hi>ſhady</hi> bank by the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ighway ſide, this <hi>ſpirit appear'd</hi> to <hi>her</hi> in the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ape of a very handſom young man, &amp; ſmi<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ng on her, <hi>Pretty maid,</hi> quoth he, <hi>why doſt <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ou ſit ſo ſad? Thou art not old enough to have <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>y Head peſtered with the cares of the World; <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ithee tell me the buſineſs, and doubt not but I <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ill help thee out of all thy troubles.</hi> The Maid <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or Maids there <hi>were</hi> in thoſe days at <hi>her age</hi>) <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſting up her eyes, and not ſuſpecting a <hi>devil</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d in ſo comely a countenance, <hi>related</hi> to him <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>r</hi> wants, and that ſhe knew not how to live;
+<pb n="3" facs="tcp:39773:3" rendition="simple:additions"/>
+                  <hi>piſh!</hi> ſaid he, <hi>that's nothing, but be ruled by and thou ſhalt never lack;</hi> ſhe hearing him <hi>p<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>miſe</hi> ſo fairly, told him ſhe would; and the<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> upon to <hi>draw her</hi> in by degrees to <hi>deſtructi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi> he <hi>firſt</hi> tempted her to <hi>Fornication,</hi> and p<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>vailed ſo <hi>far</hi> as to gain her, but his Touch<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> as ſhe <hi>afterwards</hi> confeſſed to the Midwi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> were as cold as Ice <hi>or</hi> Snow. From this ti<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <hi>forward</hi> ſhe was commonly once a day vi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ted by her Helliſh Gallant, and <hi>never</hi> want<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> money, for <hi>ſtill</hi> as ſhe ſwept the Houſe, ſ<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ſhould find ſome odd pieces, as Ninepence<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <hi>Quarters</hi> of thirteen-pence-half-pennys, a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> the like, ſufficient to ſupply <hi>all</hi> her occaſion.</p>
+            </div>
+            <div n="2" type="chapter">
+               <head>CHAP. 2.</head>
+               <argument>
+                  <p>How Mother <hi>Shiptons</hi> Mother proved wi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> child; How ſhe fitted the ſevere Juſtice, a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> what hapned at her delivery.</p>
+               </argument>
+               <p>THe <hi>Neighbors</hi> obſerving <hi>Agatha</hi> witho<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> any Employ to live ſo <hi>handſomly,</hi> wo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>dred exceedingly how ſhe came <hi>by</hi> it, but <hi>w<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi> more <hi>ſurprized</hi> ſhortly <hi>afterward,</hi> when th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <hi>perceiv'd</hi> her to be with child, which ſhe <hi>co<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi>
+                  <pb n="4" facs="tcp:39773:4"/>not long hide, for <hi>before her delivery,</hi> ſhe was <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> big as if ſhe had gone with half a dozen <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ildren</hi> at once; whereupon ſhe was <hi>carried be<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>re</hi> a Juſtice, who chid &amp; threatned <hi>her</hi> for <hi>her</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>continency, but he was ſoon ſilenced, for <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s Wife and all his Family being preſent, <hi>A<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>atha</hi> ſaid to him aloud, Mr. <hi>Juſtice, gravely <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>u talk now, and yet the truth is, your Wor<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ip is not altogether free, for here ſtands Two <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> your Servant wenches, that are both at this <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ime with Child by you;</hi> pointing to them ſe<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>erally with her <hi>finger:</hi> at which both himſelf <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd the two Girls were ſo blank, that his wife <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lainly ſaw what ſhe ſaid was true, and <hi>there<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>re</hi> fell upon two <hi>poor Harlots</hi> like a <hi>fury,</hi> ſo <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ll</hi> Mr. Juſtice and the Conſtable could do <hi>was</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ot enough to keep the peace, and the whole <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>amily was in ſuch confuſion, that <hi>Agatha</hi> for <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>at time was diſmiſt, and ſoon after was <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ought to bed in the Month of <hi>July,</hi> in the 4. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ear of the Reign of K. <hi>Henry</hi> the 7th. which as in the year of <hi>our Lord,</hi> 1488. Her <hi>Travel</hi> as <hi>very grievous,</hi> and a moſt <hi>terrible</hi> Clap of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hunder hapned juſt as ſhe was delivered of
+<pb n="5" facs="tcp:39773:4" rendition="simple:additions"/>this <hi>ſtrange birth,</hi> which <hi>afterward</hi> was ſo <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>mous by the name of Mother <hi>Shipton.</hi> N<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <hi>could</hi> the Tempeſt affright the women mo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> than the prodigious Phyſiognomy of t<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Child; the body was long, but very <hi>big bone</hi> great gogling eyes, very <hi>ſharp</hi> and <hi>fiery,</hi> a No<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of <hi>unproportionable length,</hi> having in it ma<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <hi>crooks</hi> and <hi>turnings,</hi> adorned with <hi>gre<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> pimples,</hi> which like <hi>vapours</hi> of <hi>brimſtone</hi> ga<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ſuch a <hi>luſtre</hi> in the night, that <hi>her Nurſe</hi> ne<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ded no <hi>other</hi> Candle to <hi>dreſs her</hi> by; and b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ſides this uncouth ſhape, it was <hi>obſerv'd,</hi> th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> as ſoon as the was born, ſhe <hi>fell</hi> a <hi>laughi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi> and <hi>grinning</hi> after a <hi>jeering manner,</hi> and im<g ref="char:EOLhyphen"/>mediately the Tempeſt ceaſed.</p>
+            </div>
+            <div n="3" type="chapter">
+               <head>CHAP. 3.</head>
+               <argument>
+                  <p>By what name mother <hi>Shipton</hi> was chriſten and how her Mother went into a Monaſtery</p>
+               </argument>
+               <p>THE Child being thus brought into <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>World,</hi> under ſuch <hi>ſtrange circumſtanc<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> was (though not without ſome oppoſitie<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, <hi>ordered</hi> at laſt by the Abbot of <hi>Beverly</hi> to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> chriſtned, which was <hi>performed</hi> by the <hi>name
+<pb n="6" facs="tcp:39773:5"/>
+                     <g ref="char:V">Ʋ</g>rſula Soothtell:</hi> for the later was <hi>her mo<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ers,</hi> and conſequently her Maiden Sirname <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd as for <hi>Shipton,</hi> it was the name of <hi>her</hi> hus<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>and, whom ſhe afterwards <hi>married;</hi> as wi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>pear</hi> in the ſequel of this <hi>Hiſtory:</hi> and in this <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>articular</hi> moſt of the Authors I've Read have <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>een fouly miſtaken. But to proceed, When <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e was about two years old, <hi>her</hi> Mother co<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing to be ſenſible of <hi>her</hi> evil, in holding a <hi>cor<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ſpondency</hi> with a wicked ſpirit, applying <hi>her</hi> If to ſeveral Religious men of <hi>great note</hi> in <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>oſe times, by whoſe <hi>grave</hi> advice ſhe grew <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>uly</hi> penitent, and (according to the faſhion <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f that Ages Devotion) put her ſelf into a <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ighbouring Monaſtery, having <hi>firſt</hi> put out <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>r Child with a piece of Money to a <hi>friend,</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d ſo ſpent the <hi>remainder</hi> of her days in the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>mous Covent of the <hi>order</hi> of St. <hi>Bridget,</hi> near <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ottingham,</hi> in <hi>prayers</hi> and <hi>tears,</hi> and other acts <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Pennance, to expiate the wickedneſs of her <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uth; but wonderful it is to <hi>relate</hi> the <hi>trou<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>s</hi> that befel the <hi>Nurſe</hi> ſhe was put to, <hi>for her</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ther, the foul Fiend, is <hi>reported ſeveral</hi> times <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> have viſited her, <hi>particularly</hi> one day the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rſe having been abroad, when ſhe <hi>returned</hi>
+                  <pb n="7" facs="tcp:39773:5" rendition="simple:additions"/>ſhe found <hi>her door</hi> open, whereupon fearin<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he was Robb'd, ſhe call'd <hi>three</hi> or <hi>four</hi> neigh<g ref="char:EOLhyphen"/>bours and their Wives to go into the houſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> with her, but before they got well into th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Entry,</hi> they heard a ſtrange noiſe, as if ther<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> had been a thouſand Cats in <hi>conſort,</hi> which ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> diſmaid them, that they all ran towards th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> door, <hi>endeavouring</hi> to get out again, but in vai<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> for <hi>every</hi> one of them had got Yokes on thei<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Necks, that they could not poſſibly <hi>return,</hi> bu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſoon after the Yokes fell off, and then a Coul<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſtaff was laid on 2 of the mens ſhoulders, up<g ref="char:EOLhyphen"/>on which an old woman preſented her ſel<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſtark naked, ſometimes hanging by the heels ſometimes by the Toes, anon by the middle with divers <hi>other poſtures,</hi> while the women having all <hi>their coats</hi> turned over <hi>their ears</hi> expoſed their ſhame to publick view, and ſ<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> continued till a <hi>Fryer</hi> accidentally came to th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> houſe, and then they was ſuddenly releaſed but ſtill the child having <hi>been</hi> taken out of th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Cradle,</hi> could not be found, till at <hi>laſt</hi> one of th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> company <hi>looking</hi> by chance up the <hi>chimny, ſa<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi> it ſtark naked, ſitting aſtride upon the <hi>Iro<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> to which the Pot-hooks was faſtned, whenc<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb n="8" facs="tcp:39773:6" rendition="simple:additions"/>they took it down without the <hi>leaſt hurt,</hi> and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o <hi>far</hi> from being <hi>frighted,</hi> that it ſeemed by <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ts <hi>monſtrous ſmiles</hi> to be very well pleaſed at <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>heſe pleaſant Exploits.</p>
+            </div>
+            <div n="4" type="chapter">
+               <head>CHAP. 4.</head>
+               <argument>
+                  <p>Several other merry pranks plaid by Mother <hi>Shipton,</hi> in Revenge to ſuch as abuſed her.</p>
+               </argument>
+               <p>AS our <hi>
+                     <g ref="char:V">Ʋ</g>rſula</hi> grew up to <hi>riper years,</hi> ſhe was often <hi>affronted,</hi> by reaſon of <hi>her de<g ref="char:EOLhyphen"/>formity,</hi> but ſhe never fail'd to be <hi>revenged</hi> on <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hoſe that did it: As one day <hi>all</hi> the chief of the Pariſh being together at a <hi>merry</hi> meeting, ſhe <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oming <hi>thither</hi> occaſionally on an <hi>Errand,</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ome of them abuſed her by <hi>calling her,</hi> The <hi>Devils Baſtard,</hi> and <hi>Hag-face,</hi> and the like; whereupon ſhe went away <hi>grumbling,</hi> but ſo <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rdered</hi> affairs, that when they was ſet down <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>Dinner,</hi> one of the <hi>principal</hi> Yeomen, that <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hought himſelf ſpruce and fine, had in an in<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ant his Ruff (which in thoſe days they <hi>wore</hi>) <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ull'd</hi> off, and the Seat of an Houſe of Office <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lapt in its place; he that ſate next him burſt<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng out into a <hi>laughter</hi> at the ſight <hi>hereof,</hi>
+                  <pb n="9" facs="tcp:39773:6" rendition="simple:additions"/>was ſerved <hi>little better,</hi> for his Hat was invi<g ref="char:EOLhyphen"/>ſibly convey'd away, and the Pan of a Cloſe <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ool which ſtood in the next Room, put on inſtead thereof. Beſides this, a modeſt young Gentlewoman that ſate at the Table at the ſame time, looking at theſe two <hi>worthy ſpecta<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>les</hi> of <hi>mirth,</hi> endeavour'd <hi>all</hi> ſhe could to Re<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rain laughing, but cou'd not, and withal con<g ref="char:EOLhyphen"/>tinued <hi>breaking</hi> of wind <hi>backward</hi> for above a <hi>quarter</hi> of an <hi>hour together,</hi> like ſo many broad-ſides in a Sea-fight, which made <hi>all</hi> the company laugh ſo <hi>extreamly,</hi> that the Maſter of the houſe (being the chief Inn in the <hi>town</hi>) was alarm'd below <hi>therewith,</hi> and <hi>deſirous</hi> to ſhare with his Gueſts in <hi>their mirth,</hi> came <hi>running</hi> up <hi>Stairs</hi> as faſt as his Legs would <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>arry</hi> him, but being about to enter the <hi>door,</hi> he could not, and no <hi>wonder,</hi> ſince the oldeſt Man living never ſaw a <hi>larger pair</hi> of <hi>Horns</hi> than he had on his Head: But whilſt they were gazing on one another, as more than half diſtracted, they were all reduc'd to the ſame condition they were in at firſt, <hi>after</hi> which followed a noiſe, as if <hi>more</hi> than a <hi>hun<g ref="char:EOLhyphen"/>dred perſons</hi> were laughing together, but no<g ref="char:EOLhyphen"/>thing was ſeen.</p>
+            </div>
+            <div n="5" type="chapter">
+               <pb n="10" facs="tcp:39773:7"/>
+               <head>CHAP. V.</head>
+               <argument>
+                  <p>How <hi>Urſula</hi> married a young man named <hi>To<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> Shipton,</hi> and ſtrangely diſcovered a Thief.</p>
+               </argument>
+               <p>OUr <hi>
+                     <g ref="char:V">Ʋ</g>rſula</hi> was now <hi>arrived</hi> at the Fou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and twentieth year of her age, and th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ſhe was none of the prettieſt Maids in th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Town, as you may <hi>remember</hi> by her deſcrip<g ref="char:EOLhyphen"/>tion, yet ſhe long'd for an husband as much a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the <hi>beſt</hi> of them, &amp; at laſt obtained her deſir<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> For whether ſhe uſed any <hi>Love-powder</hi> o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>charms</hi> to enamour him, or whether <hi>the</hi> hop<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> of getting ſome money, which ſhe was <hi>repor<g ref="char:EOLhyphen"/>ted</hi> to have, tho' no body could tell how ſh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſhould come by it, cauſed him to <hi>court her,</hi> (a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſome men <hi>there are</hi> that would not only <hi>mar<g ref="char:EOLhyphen"/>ry</hi> the Devils daughter, but his dam too fo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> mony) I cannot <hi>certainly</hi> inform the Reader<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> but a Sweetheart ſhe had, named <hi>Toby Shipton</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y Trade a <hi>Carpenter,</hi> to whom ſhe was ſhort<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y after <hi>married,</hi> and very comfortably they <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ved together, but never had any children<g ref="char:punc">▪</g> It hapned about a Month after her <hi>marriag<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ne of her Neighbours leaving her <hi>door</hi> care<g ref="char:EOLhyphen"/>leſly
+<pb n="11" facs="tcp:39773:7" rendition="simple:additions"/>open, loſt a new Smock and Petticoat, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>oln away while ſhe was <hi>telling</hi> a Goſſips <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ale of an hour long at next door, <hi>whither ſhe</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ent to fetch Fire; which misfortune much <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>oubling her,</hi> ſhe made her moan to our Mo<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>her <hi>Shipton,</hi> who did not go about like our <hi>lit<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>le ſilly</hi> Conjurers, with their Schemes and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>igures to give a <hi>blind deſcription</hi> of ſhe <hi>knew</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ot whom, but roundly <hi>told</hi> her ſuch a Wo<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>an by name had ſtoln the things, adding, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hat ſhe would make her <hi>reſtore</hi> them with a <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ame to her; and ſo indeed ſhe did; for the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>xt Market day before <hi>all</hi> the people this Woman <hi>could</hi> not avoid putting on the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mock over <hi>her other</hi> clothes, and the Petti<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oat in her hand, and ſo marched through the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>oud into the <hi>Market-croſs,</hi> where the other <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>as by Mother <hi>Shiptons</hi> directions to receive <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hem, dancing all the way, and ſinging theſe <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ords:</p>
+               <q>
+                  <l>I ſtole my Neighbours Smock and Coat,</l>
+                  <l>I am a Thief, and here I ſhow't.</l>
+               </q>
+               <p>And ſo when ſhe came to the owner, pull'd <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ff the Smock, and gave her her own with a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>everend courteſie,</hi> and ſo <hi>departed.</hi>
+               </p>
+            </div>
+            <div n="6" type="chapter">
+               <pb n="12" facs="tcp:39773:8"/>
+               <head>CHAP. 6.</head>
+               <argument>
+                  <p>Her Prophecy againſt Cardinal <hi>Woolſey.</hi>
+                  </p>
+               </argument>
+               <p>BY theſe and ſeveral the like exploits, Mo<g ref="char:EOLhyphen"/>ther <hi>Shipton</hi> had got a name <hi>far</hi> and <hi>nea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> for a cunning woman, or a woman of the <hi>for<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>ſight,</hi> ſo that her <hi>words</hi> began to be counte<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Oracles,</hi> nor did ſhe meddle only with <hi>privat<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> perſons,</hi> but was adviſed with <hi>concerned peo<g ref="char:EOLhyphen"/>ple</hi> of the <hi>greateſt Quality;</hi> among which <hi>num<g ref="char:EOLhyphen"/>ber</hi> at that time was Cardinal <hi>Woolſey,</hi> whe<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> it was <hi>reported,</hi> that he intended to live at <hi>York<g ref="char:punc">▪</g>
+                  </hi> ſhe <hi>publickly</hi> ſaid, <hi>He ſhould never come thither<g ref="char:punc">▪</g>
+                  </hi> which coming to his ear, and being much of<g ref="char:EOLhyphen"/>fended, he cauſed <hi>three Lords</hi> to go to her<g ref="char:punc">▪</g> who came diſguiſed to <hi>Ring-houſe</hi> near <hi>York</hi> where leaving their men, they took a Guid<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and came to Mother <hi>Shipton's,</hi> where knock<g ref="char:EOLhyphen"/>ing at <hi>her door,</hi> ſhe cryed out within, <hi>Come <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Mr.</hi> Beaſly (their Guide) <hi>and thoſe No<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> Lords with you.</hi> Which much <hi>ſurprized</hi> the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> that ſhe ſhould know them, for when the<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> came in, ſhe <hi>called</hi> each of them by their nam<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and <hi>treated</hi> them with Ale and Cakes, where<g ref="char:EOLhyphen"/>upon
+<pb n="13" facs="tcp:39773:8" rendition="simple:additions"/>upon ſaid one of the Lords, <hi>If you knew ou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Errand you would not make ſo much of us, you ſai<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> the Cardinal ſhould never ſee</hi> York. <hi>No,</hi> ſai<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he, <hi>I ſaid he might ſee</hi> York, <hi>but never come a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t; Well,</hi> ſaies the Lord, <hi>when he does com<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hou ſhalt be burnt.</hi> Then taking off her Lin<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>en Kerchief from her head, ſaies ſhe, <hi>If thi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>urn, then I may burn;</hi> and immediately flung <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> into the fire <hi>before</hi> them, but it would not burn, ſo that <hi>after</hi> it had lain<g ref="char:punc">▪</g> in the flames <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>rter</hi> of an <hi>hour,</hi> ſhe took it out again not ſo much as ſinged. Hereupon one of the <hi>Lords</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>skt her what ſhe thought of him, <hi>My Lord,</hi> ſaid ſhe, <hi>the time is coming when your Grace will be as low as I am, and that is a low one in<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>ed.</hi> Which proved <hi>true,</hi> for <hi>ſhortly after</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he was beheaded.</p>
+               <p>Nor was <hi>her</hi> ſpeech of the <hi>Cardinal</hi> leſs ve<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ified, for he coming to <hi>Cawood,</hi> went to the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>p of the <hi>Tower,</hi> &amp; askt where <hi>York was,</hi> which <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eing ſhewn him, he enquired how <hi>far</hi> it was <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hither, <hi>For</hi> (qd. he) <hi>there was a Witch ſaid, I <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hould never ſee</hi> York. <hi>Nay,</hi> ſays one preſent. <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>our Eminence is miſinformed, ſhe ſaid you ſhould <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ee it, but not come at it.</hi> Then he vow'd to <hi>burn<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi>
+                  <pb n="14" facs="tcp:39773:9"/>her when he came there, which was but <hi>eight</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iles diſtant, but behold, immediately he was <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ent for back by the King, and dyed of a vio<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ent Looſneſs at <hi>Leiceſter.</hi>
+               </p>
+            </div>
+            <div n="7" type="chapter">
+               <head>CHAP. 7.</head>
+               <argument>
+                  <p>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ome other Prophecies of Mother <hi>Shiptons,</hi> re<g ref="char:EOLhyphen"/>lating to theſe times.</p>
+               </argument>
+               <p>AT divers other times, when perſons of Qua<g ref="char:EOLhyphen"/>lity came to viſit her, ſhe delivered the ſe<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eral prophecies following, that is to ſay,</p>
+               <p n="1">1 Prophecy.</p>
+               <p>
+                  <q>
+                     <hi>Before</hi> Owſe-bridge <hi>and</hi> Trinity-Church <hi>meet, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>hey ſhall build in the day, and it ſhall fall in the night, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ntil they get the higheſt ſtone of</hi> Trinity-Church <hi>the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ſweſt ſtone of</hi> Owſe-bridge.</q>
+               </p>
+               <p>Explanation.</p>
+               <p>This came to paſs: for <hi>Trinity Steeple</hi> in <hi>York</hi> was <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>own down with a Tempeſt, and <hi>Owſe-bridge</hi> bro<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>en down with a Flood, and what they did in the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ay-time in repairing the Bridge, fell down in the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ight, till at laſt they laid the higheſt Stone of the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eeple for the Foundation of the Bridge.</p>
+               <p n="2">2. Prophecy.</p>
+               <q>
+                  <l>The North ſhall Rue it wondrous ſore,</l>
+                  <l>But the South ſhall Rue it for evermore.</l>
+               </q>
+               <pb n="15" facs="tcp:39773:9"/>
+               <p n="3">3 Prophecy.</p>
+               <p>
+                  <q>
+                     <hi>You ſhall have a year of pining Hunger, &amp; ſhall no<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> 
+                        <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>now of the Wars over-night, yet ſhall you have it i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> the Morning, and when it happens, it ſhall laſt thre<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> years, then will come a woman with one Eye, and ſh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> ſhall tread in many mens blood up to the Knee.</hi>
+                  </q>
+               </p>
+               <p n="4">4 Prophecy.</p>
+               <p>
+                  <q>
+                     <hi>Then may a Man take Houſe or Bower, Land o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> Tower for one and twenty years; but afterwards ſhal<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> be a white Harveſt of Corn gotten in by Women; the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> ſhall it be, that one Woman ſhall ſay to another,</hi> Mo<g ref="char:EOLhyphen"/>ther, I have ſeen a Man to day!</q>
+               </p>
+               <q>
+                  <l>Vnhappy he that lives to ſee theſe days;</l>
+                  <l>But happy are the dead, <hi>Shipton</hi>'s wife ſays.</l>
+               </q>
+               <p n="5">5 Prophecy.</p>
+               <p>
+                  <q>
+                     <hi>A time ſhall happen, when a Ship ſhall come ſailing up the</hi> Thames, <hi>till it come againſt</hi> London, <hi>and the Maſter of the Ship ſhall weep, and the Mariners of the Ship ſhall ask him why he weeps, ſince he hath mad<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> ſo good a Voyage; and he ſhall ſay,</hi> Ah! what: goodly City this was, none in the world compa<g ref="char:EOLhyphen"/>rable to it, and now there is ſcarce left an Houſe that can let us have drink for our money.</q>
+               </p>
+               <p>
+                  <hi>Explanation.</hi>
+               </p>
+               <p>Theſe laſt words were ſadly verified afte<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the dreadful Fire of <hi>London,</hi> 1666. when ther<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> was not an Houſe left all along <hi>Thames</hi>-ſide from the <hi>Tower</hi> to the <hi>Temple;</hi> As for th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb n="16" facs="tcp:39773:10"/>words <hi>before,</hi> they being darkly delivered, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re not like to be underſtood, till time, that <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oth diſcovers and abſconds all things, ſhall <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ring the matters ſignified to light.</p>
+            </div>
+            <div n="8" type="chapter">
+               <head>CHAP. 8.</head>
+               <argument>
+                  <p>Her Prophecies in Verſe to the Abbot of <hi>Beverly.</hi>
+                  </p>
+               </argument>
+               <p>THe Abbot of <hi>Beverly</hi> giving her a Viſit one day, told her, <hi>That as he had found <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>everal things that ſhe had formerly ſaid to be <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>xactly true, ſo he was perſwaded ſhe was not Ig<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>orant in thoſe which for the future were to in<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ue, and therefore requeſted her to impart ſome of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>er fore-knowledge to him, for which Favour <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tho' more than his deſerts could command, yet) <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>all he neither want a Tongue to acknowledge, nor <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Heart to endeavour a Requital for ſo great an <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>bligation.</hi> Mr. Abbot, ſaies ſhe, <hi>leave off com<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lementing, I am an old Woman, who will neither <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>tter, nor be flatter'd by any, yet ſhall anſwer our Deſires as for as I may.</hi> And thereupon <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d in myſtick Verſes diſcover to him the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>reateſt Accidents that have happen'd in
+<pb n="17" facs="tcp:39773:10"/>
+                  <hi>England,</hi> from that day to this, as in the fol<g ref="char:EOLhyphen"/>lowing Explanations will appear.</p>
+               <q>
+                  <lg>
+                     <head>Prophecy.</head>
+                     <l>When the Cow doth ride the Bull,</l>
+                     <l>Then Prieſt beware thy Skull.</l>
+                  </lg>
+               </q>
+               <p>Explanation.</p>
+               <p>By the Cow was meant <hi>H.</hi> 8. who gave the Cow in his Arms as Earl of <hi>Richmond,</hi> and th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Bull</hi> betoken'd Madam <hi>Ann</hi> of <hi>Bulloigne,</hi> no<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> only as the firſt ſyllable of her name, but be<g ref="char:EOLhyphen"/>cauſe her Father gave the black <hi>Bulls-Head</hi> i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> his Creſt; and when the King <hi>married her</hi> immediately after hapned the Diſſolution o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Monaſteries, and <hi>reſtraints</hi> laid on the Prieſts.</p>
+               <q>
+                  <lg>
+                     <head>Prophecy.</head>
+                     <l>For a ſweet pious Prince make room,</l>
+                     <l>And in each Kirk prepare a Broom.</l>
+                  </lg>
+               </q>
+               <p>Explanation.</p>
+               <p>This is meant of King <hi>Edward</hi> the ſixth, i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> whoſe time the Proteſtant Religion wa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> eſtabliſhed, and the Popiſh Superſtition ſwept out of the Kirk, an old word uſed <hi>ſti<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi> in <hi>Scotland</hi> for the Church.</p>
+               <q>
+                  <lg>
+                     <head>Prophecy.</head>
+                     <l>
+                        <hi>Alecto</hi> next aſſumes the Crown,</l>
+                     <l>And ſtreams of blood ſhall <hi>Smithfield</hi> drown<g ref="char:punc">▪</g>
+                     </l>
+                  </lg>
+               </q>
+               <pb n="18" facs="tcp:39773:11"/>
+               <p>Explanation.</p>
+               <p>Theſe Lines decipher Q. <hi>Mary,</hi> called <hi>Alecto</hi> a name of one of the Furies) for her Cruelty <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o the Proteſtants, of whom great numbers <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ere then burnt in <hi>Smithfield.</hi>
+               </p>
+               <q>
+                  <lg>
+                     <head>Prophecy.</head>
+                     <l>A Maiden Queen full many a year</l>
+                     <l>Shall <hi>Englands</hi> War-like Scepter bear.</l>
+                  </lg>
+               </q>
+               <p>Explanation.</p>
+               <p>Spoken of Q. <hi>Elizabeth,</hi> who Reigned, ex<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eamly Beloved by her Subjects, and drea<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed by her Enemies, above <hi>Forty Years.</hi>
+               </p>
+               <q>
+                  <lg>
+                     <head>Prophecy.</head>
+                     <l>The Weſtern Monarch's Wooden Horſes</l>
+                     <l>Shall be deſtroyed by the <hi>Drakes</hi> Forces.</l>
+                  </lg>
+               </q>
+               <p>Explanation.</p>
+               <p>The King of <hi>Spain's</hi> mighty Navy in 88. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſtroyed by the <hi>Engliſh</hi> Fleet under Cap<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>in <hi>Drake.</hi>
+               </p>
+               <q>
+                  <lg>
+                     <head>Prophecy.</head>
+                     <l>The Northern Lyon over <hi>Tweed,</hi>
+                     </l>
+                     <l>The Maiden Queen ſhall next ſucceed,</l>
+                     <l>And joyn in one two mighty States,</l>
+                     <l>Then ſhall <hi>Janus</hi> ſhut his Gates.</l>
+                  </lg>
+               </q>
+               <pb n="19" facs="tcp:39773:11"/>
+               <p>Explanation.</p>
+               <p>This relates to King <hi>James,</hi> who having been many Years King of <hi>Scotland,</hi> the Crown of <hi>England</hi> by Queen <hi>Elizabeths</hi> Death fell to him, whereupon he came over <hi>Tweed</hi> to take up his Reſidance here, and ſo joyned the two Kingdomes <hi>under</hi> one <hi>Government.</hi> And as <hi>for Janus</hi> ſhutting his Gates, you muſt know <hi>Janus</hi> was one of the Heathen gods, that ha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> a Temple at <hi>Rome,</hi> the Gates of which were never ſhut but in times of Peace, alluding to which, <hi>our Propheteſs</hi> here declares the <hi>peaceful</hi> Reign of King <hi>James.</hi>
+               </p>
+               <q>
+                  <lg>
+                     <head>Prophecy.</head>
+                     <l>Forth from the North ſhall miſchief blow,</l>
+                     <l>And <hi>Engliſh Hob</hi> ſhall add thereto;</l>
+                     <l>
+                        <hi>Mars</hi> ſhall rage as he were wood,</l>
+                     <l>And Earth ſhall drunken be with blood.</l>
+                  </lg>
+               </q>
+               <p>
+                  <hi>Explanation.</hi>
+               </p>
+               <p>This relates to our Late <hi>lamentable</hi> Civ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Wars.</p>
+               <q>
+                  <lg>
+                     <head>Prophecy.</head>
+                     <l>But tell's what's next<g ref="char:punc">▪</g> Oh cruel Fate,</l>
+                     <l>A King made Martyr at his Gate.</l>
+                  </lg>
+               </q>
+               <p>Meaning the Execrable <hi>murther</hi> of th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb n="20" facs="tcp:39773:12"/>moſt <hi>Excellent</hi> Prince, <hi>Charles</hi> the Firſt.</p>
+               <q>
+                  <l>The juſt King dead, the Woolfe ſhall then</l>
+                  <l>With blood uſurp the Lyons Den.</l>
+                  <l>But Death ſhall hurry him away,</l>
+                  <l>
+                     <hi>Confuſion</hi> ſhall a while bear ſway,</l>
+                  <l>Till fate to <hi>England</hi> ſhall reſtore</l>
+                  <l>A King to Reign as heretofore;</l>
+                  <l>Who mercy and juſtice likewiſe</l>
+                  <l>Shall in his Empire exerciſe.</l>
+               </q>
+               <p>Theſe Prophecies we have ſeen <hi>fulfilled</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y <hi>Cromwel's</hi> Uſurpations, the Committee <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f Safetys Confuſions, and our Gracious So<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eraign's Miraculous Reſtauration.</p>
+               <q>
+                  <lg>
+                     <head>Prophecy.</head>
+                     <l>Triumphant Death rides <hi>London</hi> through,</l>
+                     <l>And men on tops of Houſes go.</l>
+                  </lg>
+               </q>
+               <p>
+                  <hi>Explanation.</hi>
+               </p>
+               <p>The firſt Line points out the <hi>great Sick<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ſs</hi> in <hi>London,</hi> 1665. And the ſecond the <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eadful Fire</hi> the Year following.</p>
+               <q>
+                  <l>Let this ſuffice, the night comes on,</l>
+                  <l>You muſt depart, and I be gone;</l>
+                  <l>Apollo does forbid my Rhimes</l>
+                  <l>For to unvail ſucceeding times.</l>
+               </q>
+               <pb n="21" facs="tcp:39773:12"/>
+               <p>Having ſaid this, Mother <hi>Shipton</hi> aroſe, and the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dmiring Abbot (who took all theſe Prophecies <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ou muſt conceive, in writing) giving her many Thanks, returned home.</p>
+            </div>
+            <div n="9" type="chapter">
+               <head>CHAP. 9.</head>
+               <argument>
+                  <p>Of Mother <hi>Shiptons</hi> Death, Burial, and Epitaph.</p>
+               </argument>
+               <p>THis famous Propheteſs continued ſeveral years eſteemed, as the <hi>Sybil</hi> or <hi>Oracle</hi> of theſe Times. At laſt, being Threeſcore and Thirteen <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ears of Age, ſhe found the time in the black Book <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f Deſtiny approaching, wherein ſhe muſt give a <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>nal adieu to the World, which ſhe foretold to a <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ay, to divers people, and at the hour predicted, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aving taken ſolemn leave of her friends, laid <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er ſelf down on her Bed, and dyed; on whom <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>Poet</hi> of this Age beſtowed this</p>
+               <q>
+                  <lg>
+                     <head>EPITAPH.</head>
+                     <l>Here lies ſhe who never ly'd,</l>
+                     <l>Whoſe Skill ſo often has been try'd;</l>
+                     <l>Her Prophecies ſhall ſtill ſurvive,</l>
+                     <l>And ever keep her Name alive.</l>
+                  </lg>
+               </q>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:39773:13"/>
+            <head>Books Sold by <hi>J. Conyers</hi> a little abov<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> St. <hi>Andrews</hi> Church in <hi>Holbourn.</hi>
+            </head>
+            <list>
+               <item>1. MErry Jeſts of poor <hi>Robin</hi> the Sadler o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Walden.</hi>
+               </item>
+               <item>2. The Figure of Seven, new printed.</item>
+               <item>3. The new Academy of Complements. VVith a new Garland of Fifteen Songs.</item>
+               <item>4. The Hiſtory of <hi>Reynard</hi> the <hi>Fox.</hi>
+               </item>
+               <item>5. The Hiſtory of <hi>Fortunatus.</hi>
+               </item>
+               <item>6. The Hiſtory of Doctor <hi>Fauſtus.</hi>
+               </item>
+               <item>7. A new Book of Cookery.</item>
+               <item>8. <hi>Lilly's</hi> new <hi>Erra Pater,</hi>
+               </item>
+               <item>9. Two Groatſworth of wit for a penny, Mole<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and Dreams.</item>
+               <item>10. Mother <hi>Shiptons</hi> Life and Prophecies.</item>
+               <item>11. An Hundred notable things for a penny.</item>
+               <item>12. The new Parliament of women.</item>
+               <item>13. The Rules of Civility; or the Art of goo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Breeding.</item>
+               <item>14. The <hi>Engliſh</hi> Mountebank: a Book of mer<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y Conceits.</item>
+               <item>15. The Maids Complaint and Batchellor's An<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wer.</item>
+               <item>16. Dr. <hi>Lilly</hi>'s laſt Legacy: A Book of choice Receipts of Phyſick and Chyrurgery.</item>
+               <item>17. The Diſtreſſed VVelſhman.</item>
+            </list>
+            <p>
+               <hi>At the above-mentioned place any Chapmen may be <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>urniſhed with all ſorts of ſmall Books.</hi>
+            </p>
+            <pb facs="tcp:39773:13" rendition="simple:additions"/>
+         </div>
+      </back>
+   </text>
+</TEI>
